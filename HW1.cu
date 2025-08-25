@@ -1,4 +1,4 @@
-// Name:
+// Name: Robert Barrett 
 // Vector addition on the CPU, with timer and error checking
 // To compile: nvcc HW1.cu -o temp
 /*
